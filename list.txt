@@ -10,5 +10,5 @@ https://vk.com/login?u=2&to=YXdheS5waHA/dG89aHR0cDovL2FtcC5ncy9Wb3VxJnBvc3Q9LTIw
 
 https://vk.com/notifier.php - redirect via referrer, "Back" button
 
+---
 https://www.zomato.com/login?redirect_url=https://askdcodes.org - taken from https://hackerone.com/reports/473064
-
